@@ -1,0 +1,14 @@
+#include <stdarg.h>
+#include <stdio.h>
+
+/**
+ * _printf - fill in here
+ * @format: fill in here
+ * @...: unlimited number of parameters
+ *
+ * Return: Result of operation
+ */
+int _printf(const char *format, ...)
+{
+    return (0);
+}
