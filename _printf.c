@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdarg.h>
 
+/**
+* _printf - Prints formatted output to stdout
+* @format: A string of characters that may include format specifiers
+* Return: The number of characters printed to stdout
+*/
 int _printf(const char *format, ...)
 {
     int printed_chars = 0;
